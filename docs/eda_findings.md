@@ -6,3 +6,5 @@
 - Invalid categories:
   - pc_gamer
   - portateis_cozinha_e_preparadores_de_alimentos
+  
+## Timestamp 

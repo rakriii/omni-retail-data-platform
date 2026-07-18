@@ -17,6 +17,9 @@ Setelah diunduh, letakkan seluruh file CSV ke folder:
 
 data/raw/
 
+## Insight
+During ETL validation, two product categories (pc_gamer and portateis_cozinha_e_preparadores_de_alimentos) were found in the products dataset but missing from the official translation table. Additional translation records were inserted before loading to preserve referential integrity.
+
 ## Key Findings
 ------------------------------------------------------------------------------
 - Loaded 9 raw CSV datasets.
